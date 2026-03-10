@@ -28,4 +28,4 @@ def math():
     print(promedio)
     print(int(cociente_entero))
     print(resto)
-    print(valor_real))
+    print(valor_real)
